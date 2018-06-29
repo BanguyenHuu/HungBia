@@ -19,10 +19,6 @@ import javax.swing.ImageIcon;
 import javax.swing.JButton;
 import javax.swing.JLabel;
 
-/**
- *
- * @author TuanFPT
- */
 public class ScoreComponentsManager {
 
     private JLabel lbCup;

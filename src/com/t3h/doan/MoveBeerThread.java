@@ -13,10 +13,7 @@ import java.util.logging.Logger;
 import javax.swing.JLabel;
 import javax.swing.JPanel;
 
-/**
- *
- * @author TuanFPT
- */
+
 public class MoveBeerThread extends Thread {
 
     private boolean start = true;

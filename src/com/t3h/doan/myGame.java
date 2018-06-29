@@ -11,10 +11,7 @@ import java.io.IOException;
 import javax.imageio.ImageIO;
 import javax.swing.JPanel;
 
-/**
- *
- * @author TuanFPT
- */
+
 public class myGame extends JPanel {
     
     private Image image;
